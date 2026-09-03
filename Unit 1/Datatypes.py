@@ -9,5 +9,4 @@ Dont need to add any symbols.
  Floats: Just like integers except they're decimal numbers.
  Example: 3.14
  Booleans: can either be true or false
- No using quotations marks for boolean values. The computer understands the words that are unique.
- 
+ No using quotations marks for boolean values. The computer understands the words that are unique
