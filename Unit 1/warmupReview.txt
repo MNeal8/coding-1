@@ -1,0 +1,10 @@
+DO NOW:
+1. The 4 datatypes we learned are Variables, Integers, Floats, and Booleans.
+
+2. A Code Repository is a space for holding or storing files, and folders.
+
+3. A computer keyboard is a input because when you type the letter keys they'll be displayed to the monitor.
+
+4. A variable is just a whole number. 
+
+5. One variable naming rules we learned is that it can't start with a number. 
