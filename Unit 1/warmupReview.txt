@@ -1,5 +1,5 @@
 DO NOW:
-1. The 4 datatypes we learned are Strings, Integers, Floats, and Booleans.
+1. The 4 datatypes we learned are Variables, Integers, Floats, and Booleans.
 
 2. A Code Repository is a space for holding or storing files, and folders.
 
