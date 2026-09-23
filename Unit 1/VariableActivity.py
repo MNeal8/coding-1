@@ -2,7 +2,7 @@
 Example: name = "Mekhi Neal"
 # When we want to create a variable, we make up a word, then use the equal sign and then assign it a data type. Whenever the computer sees our variable word it will always use the data inside. 
 Variable Naming Rules:
-A variable can only start witha letter or an _ (underscore)
+A variable can only start with a letter or an _ (underscore)
 Can't start with a number 
 Can only contain the following symbols; numbers, letters, and (underscores). No other symbols can be used in a variable name
 A variable cannot be a python keyword 

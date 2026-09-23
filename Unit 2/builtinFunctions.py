@@ -26,3 +26,6 @@ price = 134.98
 print(int(price)) 
 # transforms a decimal into a whole number
 #  cannot transform strings into numbers
+
+# float() - a function that will change any datatype passed into it, intoo float/decimal number
+print(9 + float(num2)) 
