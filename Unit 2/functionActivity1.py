@@ -3,7 +3,9 @@ num = int(input(" please type in a number:"))
 print(num > 85)
 
 #2.
-print(360 + 140)
+num2 = int(input(""))
+print(num2 + 360)
 
 #3.
-int(input("Boys Latin:"))
+val = input()
+print(val =="Boys Latin")
