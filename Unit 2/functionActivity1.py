@@ -9,3 +9,5 @@ print(num2 + 360)
 #3.
 val = input()
 print(val =="Boys Latin")
+
+
