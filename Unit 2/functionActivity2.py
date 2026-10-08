@@ -1,12 +1,18 @@
 1. 
-def compare(): 
-    num1 = input()
-    num2 = input()
-    print(num1 < num2) 
-    
-compare()
+def compareValue():
+    print(" PROGRAM RUNNING") 
+    val1 = int(input())
+    val2 = int(input())
+    print(val1 < val2)   
+#compareValue()
+
+
 2. 
-def compare():
-    num1 = input()
-    num2 = input()
+def honorRollCheck():
+    print("PROGRAM RUNNING")
+    grade = int(input())
+    absences = int(input())
+    print(grade > 90 and absences < 5)
+
+    honorRollCheck()
     
