@@ -26,21 +26,21 @@ def TempleUApp():
     print("congrats please complete the temple app with the following code")
     print("a7ds78sd")
 
-college()                       
+#college()                       
 
 def calculate_add():
     print("Program started: Please type in some numbers: ") 
     num1 = int(input())
     num2 = int(input())
     print(num1 + num2) 
-calculate_add() 
+#calculate_add() 
 
 def calculate_sub(): 
     print("Program started: Please type in some numbers: ")
     num1 = int(input())
     num2 = int(input())
     print(num1 - num2)
-calculate_sub()
+#calculate_sub()
 
 
 def calculate_mul(): 
@@ -48,7 +48,7 @@ def calculate_mul():
     num1 = int(input())
     num2 = int(input())
     print(num1 * num2)
-calculate_mul()
+#calculate_mul()
 
 
 def calculate_div(): 
@@ -56,10 +56,10 @@ def calculate_div():
     num1 = int(input())
     num2 = int(input())
     print(num1 / num2)
-calculate_div()
+#calculate_div()
 
 
-if userSelection = input(" please select an option")
+#if userSelection = input(" please select an option")
 
 if userSelection == 1:
     calculate_add()
@@ -70,26 +70,21 @@ elif userSelection == 3:
 elif userSelection == 4:
     calculate_div() 
 
-else:
-    print:("error. please enter a valid number.")
+#else:
+    #print:("error. please enter a valid number.")
 
 
 
 
-def calculate_age():
-    print("Program started: Please type in a number: ") 
-    age1 = int(input())
-    age2 = int(input())
-    print(num1 > num2) 
-    input(7 or younger)
-calculate_age() 
+def movieTicket():
+    print("Welcome to the theater. How old are you")
+    userAge = int(input())
+    if userAge <= 7:
+        print( " your ticket is $8.00")
+    else:
+        print(" Sorry there was an error.")
+    if userAge >= 8 and userAge < = 20
+        print("Your ticket is $12.00")
+    if userAge > = 21    
+movieTicket()            
 
-if userSelection = input(" please select an option")
-
-if userSelection == 1:
-    calculate_add()
-elif userSelection == 2:
-    calculate_sub()
-elif userSelection == 3:
-    calculate_mul()
-elif userSelection == 4:
