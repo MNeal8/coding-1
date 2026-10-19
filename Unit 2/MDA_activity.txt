@@ -1,0 +1,19 @@
+Mechanics: 
+1. You have to touch scren for bird to flap
+2. Once you tap the screen the bird will flap its wings and make it over the pillar.
+
+Dynamics:
+1. When you die the screen will give you a flashbang and the bird will fall to its death. 
+2. If you get to a score of 999 Mario will pop up and have to get throught multiple pillars at the same time. 
+
+Aesthetics:
+1. You can customize the bird however you want.
+2. You have a city in the backround as your going over the pillar
+
+The type of game I wamt to make is a street racing game. Some racing maps will be all across the world. 
+You'll race against CPU's and other players in your reigon. 
+You can buy cars from any car brand, a few super cars will be in the options. 
+It will be a mobile game and the players will bet a minimum wage of $1,000 and a maximum wage of $100,000.
+During the race there will be blue and red NOS tanks, the blue will give it 25% of NOS speed boost when the red NOS tanks will give 75% but will appear a couple times during the race
+When playing against CPU's if you crash into a CPU car the CPU car will break into a million pieces and have an animation of being the air. 
+There will be rankings for online racing and different divisions.
